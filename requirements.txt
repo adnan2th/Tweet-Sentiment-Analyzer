@@ -1,0 +1,8 @@
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0  # "sklearn" is deprecated, use "scikit-learn"
+streamlit>=1.28.0
+matplotlib>=3.7.0    # Fixed typo ("maltplot" → "matplotlib")
+seaborn>=0.12.0
+joblib>=1.3.0
+    
