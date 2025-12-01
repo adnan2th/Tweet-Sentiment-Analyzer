@@ -55,6 +55,6 @@ Update this section with the exact model you used.
 - **TensorFlow / Keras** (if using LSTM)
 - **Matplotlib / Seaborn**
 
-- 📈 Results
+📈 Results
 - Model Accuracy: 73%
 - it can be good more if we used a pre-trained model or hyperparameter tuning
